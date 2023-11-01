@@ -1,0 +1,26 @@
+.container {
+    margin: 100px auto;
+    padding-top: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 500px;
+    height: 250px;
+}
+
+input {
+    width: 230px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 120px;
+    color: white;
+    background: rgb(21, 133, 232);
+    border: transparent;
+    padding: 2px;
+    border-radius: 4px;
+}
+#output{
+    margin-top: 12px;
+    font-weight: bold;
+}
